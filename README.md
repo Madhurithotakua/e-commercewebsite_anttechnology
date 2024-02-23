@@ -13,7 +13,7 @@
 The WooCommerce Analytics Dashboard is a comprehensive web platform tailored for e-commerce businesses, offering detailed insights and analytics for informed decision-making. Utilizing ANT Design and React technology, our website provides intuitive interfaces and powerful functionalities to represent diverse data tables with different functionaalities and graphical representations. From monitoring customer behavior to tracking sales performance, the WooCommerce Analytics Dashboard empowers businesses to optimize their strategies and enhance their online presence.
 
 ## Folder Structure:
-(![WhatsApp Image 2024-02-23 at 20 55 40_0519ba4f](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/f64d14ff-ced7-4bdd-8fcd-378352b49fe3))
+![WhatsApp Image 2024-02-23 at 20 55 40_0519ba4f](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/f64d14ff-ced7-4bdd-8fcd-378352b49fe3)
 
 ## Components:
 
@@ -68,15 +68,16 @@ The WooCommerce Analytics Dashboard is a comprehensive web platform tailored for
 The WooCommerce Analytics Dashboard exhibits responsive design principles, adapting seamlessly across various devices and screen sizes. Utilizing media queries and responsive design patterns, the dashboard maintains usability and functionality across desktops, tablets, and mobile devices. Graphical representations and data tables adjust dynamically to provide optimal viewing and interaction experiences.
 
 - *Desktop View:*
-  ![Desktop View](![image](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/3b6dd114-3ba8-43dc-948d-ffa6e2b3eafc))
+  ![Screenshot 2024-02-23 211312](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/44701735-301e-4451-9fd2-4d1f36eac642)
+
 
 - *Tablet View:*
-  ![Tablet View](![image](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/5c435431-5ab6-4fce-86b6-a21f24eecd5d)
-)
+  ![Screenshot 2024-02-23 211407](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/5fe45ceb-12fc-4d22-a956-bbe49b02deb3)
+
 
 - *Mobile View:*
-  ![Mobile View](![image](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/7f981080-f36f-4bc9-8b20-b6bd9d3aa7f8)
-)
+  ![Screenshot 2024-02-23 211457](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/a63e5730-b47e-45ed-995b-bda580a0a5c6)
+
 
 ## Conclusion:
 
