@@ -30,23 +30,34 @@ The WooCommerce Analytics Dashboard is a comprehensive web platform tailored for
 
 1. **Insights (Product Data):**
    - The table contains the rating functionality, allowing users to rate products.
-     (https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/8f4b5cda-cabe-4909-af86-32c239e55809)
+     ![image](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/3267e09b-4208-4a24-b467-8558b589fcd4)
 
 
 2. **Performance:**
    - The table contains a search functionality, enabling users to search for specific functions.
+     ![image](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/b0ed4011-7497-4ee1-a90c-c773e674e021)
+
 
 3. **Orders:**
    - Users can sort their orders in the table for better organization and management.
+     ![image](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/fdf70a2b-891b-47f5-bcd8-62aa08997ea4)
+
 
 4. **Customers:**
    - The table contains customer personal details with pagination and icons functionality for easy navigation.
+     ![image](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/f34c03f9-01bb-4c9e-b052-a50fcda7b508)
      
+
 5. **Preferences (Product Data):**
    - Users can add or delete their orders in the table, providing flexibility and customization options.
+     ![image](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/d28524eb-8b2a-4b35-b3e1-c911220bfb19)
+
 
 6. **Representations:**
    - This section contains graphical representations of products, including bar charts, pie charts, scatter plots, funnel charts, and radar charts.
+     ![image](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/c7fe0a44-0515-498b-b04b-14288e898e0d)
+     
+
 
 ## Technologies used:
 
