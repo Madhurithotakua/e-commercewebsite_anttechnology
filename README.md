@@ -30,7 +30,7 @@ The WooCommerce Analytics Dashboard is a comprehensive web platform tailored for
 
 1. **Insights (Product Data):**
    - The table contains the rating functionality, allowing users to rate products.
-     ![Screenshot 2024-02-23 211312](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/8f4b5cda-cabe-4909-af86-32c239e55809)
+     (https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/8f4b5cda-cabe-4909-af86-32c239e55809)
 
 
 2. **Performance:**
