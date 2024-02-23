@@ -1,4 +1,4 @@
-# WooCommerce Analytics Dashboard: A Responsive React-Powered Web Experience
+# WooCommerce Analytics Dashboard: A Responsive React-Powered(Ant technology) Wesite
 
 ## Table of Contents
 - Introduction
@@ -92,7 +92,7 @@ The WooCommerce Analytics Dashboard exhibits responsive design principles, adapt
 
 ## Conclusion:
 
-The WooCommerce Analytics Dashboard represents a sophisticated solution for e-commerce businesses seeking actionable insights and analytics. With its intuitive interfaces, comprehensive data representations, and responsive design, the dashboard empowers businesses to make informed decisions and optimize their online operations effectively.
+The WooCommerce Analytics Dashboard created by using ant technology in react represents a sophisticated solution for e-commerce businesses seeking actionable insights and analytics. With its intuitive interfaces, comprehensive data representations, and responsive design, the dashboard empowers businesses to make informed decisions and optimize their online operations effectively.
 
 *Senior Developer* - [K.keerthi]  
 *Junior Developer* - [T.Madhuri]
