@@ -1,4 +1,4 @@
-# WooCommerce Analytics Dashboard: A Responsive React-Powered(Ant technology) Wesite
+# WooCommerce Analytics Dashboard: A Responsive React-Powered(Ant technology) Website
 
 ## Table of Contents
 - Introduction
