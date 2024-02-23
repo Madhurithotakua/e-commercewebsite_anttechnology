@@ -13,7 +13,7 @@
 The WooCommerce Analytics Dashboard is a comprehensive web platform tailored for e-commerce businesses, offering detailed insights and analytics for informed decision-making. Utilizing ANT Design and React technology, our website provides intuitive interfaces and powerful functionalities to represent diverse data tables with different functionaalities and graphical representations. From monitoring customer behavior to tracking sales performance, the WooCommerce Analytics Dashboard empowers businesses to optimize their strategies and enhance their online presence.
 
 ## Folder Structure:
-![Folder Structure](![WhatsApp Image 2024-02-23 at 20 55 40_0519ba4f](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/f64d14ff-ced7-4bdd-8fcd-378352b49fe3))
+(![WhatsApp Image 2024-02-23 at 20 55 40_0519ba4f](https://github.com/Madhurithotakua/e-commercewebsite_anttechnology/assets/104493027/f64d14ff-ced7-4bdd-8fcd-378352b49fe3))
 
 ## Components:
 
